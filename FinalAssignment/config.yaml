@@ -1,0 +1,4 @@
+worldMap : "world-countries.json"
+GDPDb : "API_NY.GDP.MKTP.CD_DS2_en_csv_v2_4770391.csv"
+mortalityDb : "WHOMortalityDatabase_Deaths_sex_age_a_country_area_year-Communicable, maternal, perinatal and nutritional conditions_9th January 2023 23 03.csv"
+countryClassDb : "Metadata_Country_API_NY.GDP.MKTP.CD_DS2_en_csv_v2_4770391.csv"

@@ -1,0 +1,5 @@
+careplansDb: 'careplans.csv'
+conditionsDb: 'conditions.csv'
+encountersDb: 'encounters.csv'
+observationsDb: 'observations.csv'
+patientsDb: 'patients.csv'
