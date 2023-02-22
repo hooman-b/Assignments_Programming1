@@ -88,7 +88,19 @@ hospital bed per person per country. Design a model to describe the relationship
 section and health system.
 
 5- Run and use the program:
-to use this program one can download all the material in the folder on my github repository, download
+This program was written in Python 3.9.13 which is the diffult version of Anaconda environment. Also, 
+the below packages were used in this program:
+    1- panel                     0.13.1           py39haa95532_0
+    2- yaml                      0.2.5                he774522_0    conda-forge
+    3- pandas                    1.4.4            py39hd77b12b_0
+    4- numpy                     1.21.5           py39h7a0a035_3
+    5- regex                     2022.7.9         py39h2bbff1b_0
+    6- folium                    0.13.0             pyhd8ed1ab_0    conda-forge
+    7- bokeh                     2.4.3            py39haa95532_0
+    8- matplotlib                3.5.2            py39haa95532_0
+    9- scipy                     1.9.1            py39he11b74f_0
+   
+To use this program one can download all the material in the folder on my github repository, download
 the data sets from their sources and then press the run all bottom. Moreover, there are many 
 descriptions and analysis in the code that is important to be red in order to find how the hypothesis
 is approved.
@@ -112,4 +124,7 @@ https://github.com/hooman-b/Assignments_Programming1/tree/master/FinalAssignment
 7- License:
 This is an open source code, so I become really appreciated, if somebody improve the code.
 
+8- Contact Information:
+Email: h.bahrdo@st.hanze.nl
+Phone Number: +31681254428
   
